@@ -1,0 +1,5 @@
+Growth Rate: [1.28468686] um/min
+Nucleation Rate: [4.95126096e-10] 1/(um^3*min)
+Residence Time: 60.0 min
+G*tau: [77.08121139] um
+MT2: [200.] kg/m3
